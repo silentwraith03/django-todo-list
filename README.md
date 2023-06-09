@@ -50,8 +50,6 @@ django-todo-list/
 <img src='images/sc1.png'>
 <img src='images/sc2.png'>
 <img src='images/sc3.png'>
-<img src='images/sc4.png'>
-<img src='images/sc5.png'>
 
 ## Tech Used
 * Django
