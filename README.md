@@ -7,6 +7,11 @@ TodoApp is a simple web application built with Django that allows you to manage 
 - Search for specific tasks
 - Responsive design for mobile and desktop
 
+## Screenshots
+<img src='images/sc1.png'>
+<img src='images/sc2.png'>
+<img src='images/sc3.png'>
+
 ## Prerequisites
 Before running the polls website, make sure you have the following installed:
 
@@ -45,11 +50,6 @@ django-todo-list/
   |- README.md/
   |- requirement.txt/
 ```
-
-## Screenshots
-<img src='images/sc1.png'>
-<img src='images/sc2.png'>
-<img src='images/sc3.png'>
 
 ## Tech Used
 * Django
